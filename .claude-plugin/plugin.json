@@ -1,0 +1,21 @@
+{
+  "name": "shopsbuilder",
+  "version": "1.26.1",
+  "description": "Launch and manage online stores with AI agents: products, inventory, pricing, orders and promotions.",
+  "author": {
+    "name": "ShopsBuilder",
+    "email": "partners@shopsbuilder.app",
+    "url": "https://shopsbuilder.app"
+  },
+  "homepage": "https://shopsbuilder.app/en/docs/connect-ai-agent/",
+  "repository": "https://github.com/ShopsBuilder/mcp",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "ecommerce",
+    "online-store",
+    "mcp",
+    "shop"
+  ],
+  "privacyPolicyUrl": "https://shopsbuilder.app/en/legal/privacy/",
+  "icon": ".claude-plugin/icon.png"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "shopsbuilder",
+  "owner": {
+    "name": "ShopsBuilder",
+    "email": "partners@shopsbuilder.app"
+  },
+  "metadata": {
+    "description": "The ShopsBuilder plugin: launch and manage online stores from Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "shopsbuilder",
+      "source": "./",
+      "description": "Launch and manage online stores with AI agents: products, inventory, pricing, orders and promotions."
+    }
+  ]
+}
