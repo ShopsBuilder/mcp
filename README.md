@@ -6,6 +6,8 @@
 
 Launch and manage online stores with AI agents: products, inventory, pricing, orders and promotions.
 
+[![ShopsBuilder MCP connector](https://glama.ai/mcp/connectors/app.shopsbuilder/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.shopsbuilder/mcp)
+
 This repository holds documentation only. The server is hosted by ShopsBuilder, so there is
 nothing to install or run.
 
